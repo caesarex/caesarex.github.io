@@ -1,0 +1,21 @@
+/* CaesaRex.xyz - http://caesarex.xyz/ */
+
+/* TEAM */
+	Web designer: Lic. César Salomón Rangel Farias
+	Contact: c.sar56@gmail.com
+	Twitter: @caesarex
+	From: Morelia, Michoacán, México
+
+/* IN MEMORIAL */
+	Name:Caesar Rex
+
+/* THANKS */
+	Name: César S. Rangel F.
+                            
+/* SITE */
+
+	Last update: 2015/03/15
+	Standards: HTML5, CSS3,..
+	Doctype:HTML5
+	Components: Modernizr, jQuery, etc.
+	IDE: Sublime Text 3, Filezilla, Photoshop
