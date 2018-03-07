@@ -9,7 +9,7 @@ fwrite ($f, 'Nombre: [<b><font color="#0000FF">'.$name.'</font></b>] Email: [<b>
 fclose($f);
 
 echo "<script type='text/javascript'>alert('Tu mensaje ha sido enviado con éxito, lo atenderé lo antes posible. Gracias');</script>";
-echo "<script>location='http://caesarex.xyz/contacto.html'</script> ";
+echo "<script>location='http://caesarex.github.io/contacto.html'</script> ";
 }
 else
 { echo '<font color="#FF0000" size="5">ERROR: </font><B>Tu mensaje no puede enviarse, debes llenar todos los campos: </B>'.'<a href="form.html"><b>Regresar</b></a>';
