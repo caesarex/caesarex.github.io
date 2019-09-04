@@ -37,3 +37,15 @@ legend{
 .linktienda{
 	font-size: 11px;
 }
+.epigrafe{
+	font-size: 13px;
+	font-weight: bold;
+	text-align: center;
+	font-style: italic;
+	padding-top: 5px;  
+	padding-bottom: 2px;  
+}
+.videosrow{
+	margin-top: 10px;  
+	margin-bottom: 10px; 
+}
