@@ -1,9 +1,10 @@
-/* CaesaRex.xyz - http://caesarex.xyz/ */
+/* caesarex.github.io - https://caesarex.github.io/ */
 
 /* TEAM */
 	Web designer: Lic. César Salomón Rangel Farias
 	Contact: c.sar56@gmail.com
 	Twitter: @caesarex
+	Facebook: @caesarex8
 	From: Morelia, Michoacán, México
 
 /* IN MEMORIAL */
@@ -14,8 +15,8 @@
                             
 /* SITE */
 
-	Last update: 2015/03/15
+	Last update: 2019/10/05
 	Standards: HTML5, CSS3,..
 	Doctype:HTML5
 	Components: Modernizr, jQuery, etc.
-	IDE: Sublime Text 3, Filezilla, Photoshop
+	IDE: Sublime Text 3, Photoshop
