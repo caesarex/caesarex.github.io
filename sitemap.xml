@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>http://caesarex.github.io/index.html</loc>
-      <loc>http://caesarex.github.io/alumnos.html</loc>
-      <loc>http://caesarex.github.io/tutoriales.html</loc>
-      <loc>http://caesarex.github.io/descargas.html</loc>
-      <loc>http://caesarex.github.io/blog.html</loc>
-      <loc>http://caesarex.github.io/tienda.html</loc>
-      <loc>http://caesarex.github.io/contacto.html</loc>
+      <loc>https://caesarex.github.io/index.html</loc>
+   </url>
+   <url>
+      <loc>https://caesarex.github.io/alumnos.html</loc>
+   </url>
+   <url>   
+      <loc>https://caesarex.github.io/tutoriales.html</loc>
+   </url>
+   <url>   
+      <loc>https://caesarex.github.io/descargas.html</loc>
+   </url>
+   <url>   
+      <loc>https://caesarex.github.io/blog.html</loc>
+   </url>
+   <url>   
+      <loc>https://caesarex.github.io/tienda.html</loc>
+   </url>
+   <url>
+      <loc>https://caesarex.github.io/contacto.html</loc>
    </url>
 </urlset>
