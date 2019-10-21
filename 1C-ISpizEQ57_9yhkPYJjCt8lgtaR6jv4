@@ -1,0 +1,296 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Alumnos de EMSAD y PECE 2000</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+   <!--analytics-->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-90477490-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</script>
+  <meta name="Caesarex">
+  <meta name="keywords" content="caesarex, cecytem, cecyte, cemsad, copandaro del cuatro, video tutoriales, software, informatica, morelia" /> 
+  <meta name="description" content="Bienvenido a la Web de Caesarex. Aqu&iacute; encontrar&aacute;s material de apoyo para tus cursos de inform&aacute;tica, calificaciones, software gratuito, video tutoriales y mucho m&aacute;s." />
+  <meta name="Author" content="Caesarex" />
+  <META  NAME="robots" CONTENT="INDEX,FOLLOW">
+  <link rel="sitemap" type="application/xml" title="Sitemap" href="sitemap.xml">
+  <link rel="author" type="text/plain" href="humans.txt" />
+    <link rel="shortcut icon" type="image/x.icon" href="images/favicon.ico">
+    <link href="stylesheets/bootstrap.min.css" rel="stylesheet">
+    <link href="stylesheets/style.css" rel="stylesheet">
+    <script src="https://apis.google.com/js/platform.js" async defer>
+     {lang: 'es'}
+    </script>
+    <!--personas conectadas-->
+<script id="_wauz6h">var _wau = _wau || []; _wau.push(["tab", "0ozco7dmmp", "z6h", "right-lower"]);</script><script async src="//waust.at/t.js"></script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script src="javascripts/jquery.min.js"></script>
+<script src="javascripts/bootstrap.min.js"></script>
+<script src="javascripts/scripts.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-7171840279422898",
+          enable_page_level_ads: true
+     });
+</script>
+  </head>
+  <body>
+    <div class="container">
+    <br />
+	<div class="row">
+		<div class="col-md-12">
+			<div class="row">
+				<div class="col-md-4 text-center">
+					<a href="index"><img class="img-responsive" alt="Logo" src="images/cr.png" style="width:200px;height:140px"></a>
+				</div>
+				<div class="col-md-4">
+				  <div class="page-header">
+				  <h1><center>Caesarex 's Website<br /><small><i>Software, Tutoriales, y m&aacute;s ...</i></small></center></h1>
+			      </div>
+				</div>
+				<div class="col-md-4 text-center">
+				          <div><br /><h5>Compartir en...</h5>
+              <a href="http://twitter.com/home?status=Bienvenido%20a%20la%20web%20de%20%23Caesarex%20http://caesarex.github.io/alumnos" target="_blank"><img src="images/tw.png" title="Twitter" alt="Twitter" width="32" height="32"></a>
+              <a href="http://www.facebook.com/sharer.php?u=https://caesarex.github.io/alumnos" target="_blank"><img src="images/fa.png" title="Facebook" alt="Facebook" width="32" height="32"></a>
+              <a href="tg://msg?text=Bienvenido%20a%20la%20web%20de%20%23Caesarex%20https://caesarex.github.io/alumnos" target="_blank"><img src="images/te.png" title="Telegram" alt="Telegram" width="32" height="32"></a>
+              <a href="whatsapp://send?text=Bienvenido%20a%20la%20web%20de%20%23Caesarex%20https://caesarex.github.io/alumnos" data-action="share/whatsapp/share"><img src="images/wh.png" title="Whatsapp" alt="Whatsapp" width="32" height="32"></a>
+               </div>   
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+		    <nav class="navbar navbar-inverse">
+  					<div class="container-fluid">
+    				<div class="navbar-header">
+      					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        					<span class="icon-bar"></span>
+        					<span class="icon-bar"></span>
+        					<span class="icon-bar"></span> 
+      					</button>
+      				<a class="navbar-brand" href="#">CaesaRex.github.io</a>
+    				</div>
+    				<div class="collapse navbar-collapse" id="myNavbar">
+      				<ul class="nav navbar-nav navbar-right">
+        				<li class="active"><a href="index"><span class="glyphicon glyphicon-home"></span> Inicio</a></li>
+        				<li class="active"><a href="alumnos" style="background:#f80"><span class="glyphicon glyphicon-education"></span> Alumnos </a></li>
+                <li class="active"><a href="tutoriales"><span class="glyphicon glyphicon-facetime-video"></span> Tutoriales </a></li>
+        				<li class="active"><a href="descargas"><span class="glyphicon glyphicon-download-alt"></span> Descargas</a></li>
+        				<li class="active"><a href="blog"><span class="glyphicon glyphicon-file"></span> Blog</a></li>
+                <li class="active"><a href="tienda"><span class="glyphicon glyphicon glyphicon-credit-card"></span> Tienda</a></li>
+        				<li class="active"><a href="contacto"><span class="glyphicon glyphicon-phone-alt"></span> Contacto</a></li>
+        				
+      				</ul>
+      				<!--<ul class="nav navbar-nav navbar-right">
+        			<li><a href="#"><span class="glyphicon glyphicon-user"></span> Reg&iacute;strate</a></li>
+        			<li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Ingresa</a></li>
+      				</ul>-->
+    				</div>
+  					</div>
+					</nav>
+		</div>
+	</div>
+	
+	<div class="row">
+		<div class="col-md-12">
+			<div class="row">
+				<div class="col-md-7">
+				 <blockquote style="border: 1px solid #ccc;border-radius:5px;box-shadow: 5px 5px 5px #ccc;">
+							            <h2 class="text-primary text-center">CEMSAD 49 Cop&aacute;ndaro</h2><br />
+                               <div class="list-group">
+                                    <a href="https://www.evernote.com/shard/s675/sh/3ffb13e5-dab7-4825-94a2-9ad1ec177708/e21f3f2a87a4d1fcf42d87172dd89a1d" class="list-group-item" target="_blank">
+                                    <h4 class="list-group-item-heading" style="color:#c00;">C&oacute;digos de Edmodo</h4>
+                                    <p class="list-group-item-text"></p>
+                                    </a>
+                                    <a href="https://drive.google.com/open?id=1a5ARQ8vztqBU85adholiLVW6oRJ35z60" class="list-group-item" target="_blank">
+                                    <h4 class="list-group-item-heading">Calendario Cemsad 2019-2020.</h4>
+                                     <p class="list-group-item-text"></p>
+                                    </a>
+                               </div>
+                               <h3 class="text-info">Primer Semestre</h3>
+						                   <div class="list-group">
+                                               <a href="https://docs.google.com/spreadsheets/d/1w0js4m7EheREpqpFCFvAe6T9rdX09IqBwBp3Nf9-5uY/edit?usp=sharing" class="list-group-item" target="_blank">
+                                                <h4 class="list-group-item-heading" style="color:#c00;">Calificaciones</h4>
+                                                <p class="list-group-item-text"></p>
+                                              </a>
+                                              <a href="https://drive.google.com/open?id=170EIxgE5b8BaPhfDE9JmnHFCkDt50IcW" class="list-group-item" target="_blank">
+                                                <h4 class="list-group-item-heading">Material de estudio de Inform&aacute;tica I</h4>
+                                                <p class="list-group-item-text"></p>
+                                              </a>
+                                              <a href="https://elcodigoascii.com.ar/" class="list-group-item" target="_blank">
+                                                <h4 class="list-group-item-heading">Tabla ASCII</h4>
+                                                <p class="list-group-item-text"></p>
+                                              </a>
+                                              <a href="https://drive.google.com/open?id=1LpOZxb9fBaMPeVYYrKD2MPqzyQPt_MHk" class="list-group-item" target="_blank">
+                                                <h4 class="list-group-item-heading">Guía Básica de Windows</h4>
+                                                <p class="list-group-item-text"></p>
+                                              </a>
+                                              <a href="https://drive.google.com/open?id=1nH1R-xNMC_na-dZaP-16fM_aC0mtmveb" class="list-group-item" target="_blank">
+                                                <h4 class="list-group-item-heading">Procesador de Textos.</h4>
+                                                <p class="list-group-item-text"></p>
+                                              </a>
+                                              <a href="https://www.youtube.com/watch?v=2oM8sDbt1Wk" class="list-group-item" target="_blank">
+                                                <h4 class="list-group-item-heading">Tutorial - Creación de E-mail en Gmail.</h4>
+                                                <p class="list-group-item-text"></p>
+                                              </a>
+                                              <a href="https://www.youtube.com/watch?v=d4UcV6UeNwo" class="list-group-item" target="_blank">
+                                                <h4 class="list-group-item-heading">Tutorial - Creación de blog en Blogger.</h4>
+                                                <p class="list-group-item-text"></p>
+                                              </a>
+                                           </div>
+                                            <h3 class="text-info">Tercer Semestre</h3>
+				            <div class="list-group">
+                                              <a href="https://docs.google.com/spreadsheets/d/1QO160aZw17LGGkS6vxi4kIqfFI2JiaMyHkKIPzdOlyU/edit?usp=sharing" class="list-group-item" target="_blank">
+                                                <h4 class="list-group-item-heading" style="color:#c00;">Calificaciones</h4>
+                                                <p class="list-group-item-text"></p>
+                                              </a>
+                                              <a href="https://drive.google.com/open?id=1nH1R-xNMC_na-dZaP-16fM_aC0mtmveb" class="list-group-item" target="_blank">
+                                                <h4 class="list-group-item-heading">Material de Procesador de Textos.</h4>
+                                                <p class="list-group-item-text"></p>
+                                              </a>
+                                              <a href="https://drive.google.com/open?id=1a9XiJcgaXpD7fRG7-G3AB1v4ltHc61M-" class="list-group-item" target="_blank">
+                                              <h4 class="list-group-item-heading">Material de Hoja de c&aacute;lculo.</h4>
+                                              <p class="list-group-item-text"></p>
+                                              </a>
+                                               
+                                           </div> 
+                                           <h3 class="text-info">Quinto Semestre</h3>
+				           <div class="list-group">
+                                              <a href="https://docs.google.com/spreadsheets/d/1A9ODLbXCMQ-gU3oVbNp4ftw7uG2WBeRCCzbHC2UMhYU/edit?usp=sharing" class="list-group-item" target="_blank">
+                                                <h4 class="list-group-item-heading" style="color:#c00;">Calificaciones</h4>
+                                                <p class="list-group-item-text"></p>
+                                              </a>
+                                               <a href="https://repl.it" target="_blank" class="list-group-item">
+                                                <h4 class="list-group-item-heading">Repl.it</h4>
+                                                <p class="list-group-item-text">Compilador multilenguaje en l&iacute;nea</p>
+                                              </a>
+                                              <a href="https://sourceforge.net/projects/orwelldevcpp/files/latest/download" target="_blank" class="list-group-item">
+                                                <h4 class="list-group-item-heading">Dev C++</h4>
+                                                <p class="list-group-item-text">Editor y Compilador de Lenguaje C/C++</p>
+                                              </a>
+                                              <a href="https://www.youtube.com/watch?v=NNg44EiR4WQ" target="_blank" class="list-group-item">
+                                                <h4 class="list-group-item-heading">Tutorial de C++ | Episodio 1</h4>
+                                                <p class="list-group-item-text">Instalación del compilador Dev C++</p>
+                                              </a>
+                                              <a href="https://youtu.be/-1igkJufCa0" target="_blank" class="list-group-item">
+                                                <h4 class="list-group-item-heading">Tutorial de C++ | Episodio 2</h4>
+                                                <p class="list-group-item-text">Tipos de datos y variables en C++</p>
+                                              </a>
+                                               <a href="https://youtu.be/YN6T_f8QM18" target="_blank" class="list-group-item">
+                                                <h4 class="list-group-item-heading">Tutorial de C++ | Episodio 3</h4>
+                                                <p class="list-group-item-text">Sentencia IF, ELSE en C++</p>
+                                              </a>
+                                              <a href="https://youtu.be/XLMNCM-soYQ" target="_blank" class="list-group-item">
+                                                <h4 class="list-group-item-heading">Programa en l&iacute;nea con Repl.it</h4>
+                                                <p class="list-group-item-text">Sentencia IF ELSE</p>
+                                              </a>
+                                              <a href="https://youtu.be/wFByGj_4beU" target="_blank" class="list-group-item">
+                                                <h4 class="list-group-item-heading">Tutorial de C++ | Episodio 4</h4>
+                                                <p class="list-group-item-text">Ciclo FOR</p>
+                                              </a>
+                                              <a href="https://youtu.be/sZRKffQk3NA" target="_blank" class="list-group-item">
+                                                <h4 class="list-group-item-heading">Tutorial de C++ | Episodio 5</h4>
+                                                <p class="list-group-item-text">Ciclo WHILE</p>
+                                              </a>
+                                              </div>            
+					</blockquote>
+				</div>
+				<div class="col-md-5 text-center">
+         <blockquote style="border: 1px solid #ccc;border-radius:5px;box-shadow: 5px 5px 5px #ccc;">
+                          <h2 class="text-primary text-center">Grupo PECE 2000</h2><br />
+                               <h3 class="text-info">Curso de CENEVAL.</h3>
+                               <div class="list-group">
+                                              <a href="https://www.evernote.com/shard/s675/sh/b508f003-3db7-492c-9dbd-50cea331b25d/02bdd9e7db484b5a0f5033fc081819d6" class="list-group-item" target="_blank">
+                                                <h4 class="list-group-item-heading">Avance del Curso S&aacute;bado 8-12</h4>
+                                                <p class="list-group-item-text"></p>
+                                              </a>
+                                              <a href="https://www.evernote.com/shard/s675/sh/28065af8-e679-40c7-ac32-54b7b61009ca/2e7759e8c6c040dcc6505f6baf29555a" class="list-group-item" target="_blank">
+                                                <h4 class="list-group-item-heading">Avance del Curso S&aacute;bado 8-12</h4>
+                                                <p class="list-group-item-text"></p>
+                                              </a>
+                                              <a href="http://www.ceneval.edu.mx/bachillerato" class="list-group-item" target="_blank">
+                                                <h4 class="list-group-item-heading">Información sobre el Examen de Ceneval.</h4>
+                                                <p class="list-group-item-text"></p>
+                                              </a>
+                                               <a href="https://drive.google.com/open?id=1SPnCoFXlaMlLsjozrPCQz58mIezN6o9p" class="list-group-item" target="_blank">
+                                                <h4 class="list-group-item-heading">Guía para Ingreso a Bachillerato.</h4>
+                                                <p class="list-group-item-text"></p>
+                                              </a>                                          
+                                            </div>                                                                
+            </blockquote>
+				  <blockquote style="border: 1px solid #ccc;border-radius:5px;box-shadow: 5px 5px 5px #ccc;">
+					           <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- alumnos -->
+                    <ins class="adsbygoogle"
+                         style="display:block"
+                         data-ad-client="ca-pub-7171840279422898"
+                         data-ad-slot="1697298566"
+                         data-ad-format="auto"
+                         data-full-width-responsive="true"></ins>
+                    <script>
+                         (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+					</blockquote>
+          <blockquote style="border: 1px solid #ccc;border-radius:5px;box-shadow: 5px 5px 5px #ccc;">
+            <p>
+              <a class="twitter-timeline" href="https://twitter.com/CaesaRex" data-widget-id="344888219684446210">Tweets por el @CaesaRex.</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+            </p>  
+          </blockquote>
+				</div>
+			</div>
+		</div>
+	</div>
+	 <div class="row" style="background-color:#000;">
+		<div class="col-md-12">
+			<div class="row">
+				<div class="col-md-4">
+					<ul class="list-unstyled text-center" style="color:#fff">
+						<li>Visitantes.</li>
+						<a href="http://www.easycounter.com/">
+<img src="http://www.easycounter.com/counter.php?caesarex"
+border="0" alt="stats counter"></a>
+<br><a href="http://www.easycounter.com/">HTML Hit Counters</a>
+											
+					</ul>
+				</div>
+				<div class="col-md-4">
+					<ul class="list-unstyled text-center" style="color:#fff;">
+						<li>
+							Desarrollador Web
+						</li>			
+					</ul>
+						<p class="text-center"><a href="faq.html" style="color:#fff;font-style:italic;font-weight:bold">Lic</a><a href="https://drive.google.com/open?id=1BwYldyoUpbIjzxKv70OO4PQYPIyWvGcJX1RJtuloDIo" target="_blank">.</a><a href="faq.html" style="color:#fff;font-style:italic;font-weight:bold"> C&eacute;sar S. Rangel F</a><a href="archivos/horario.pdf" target="_blank">.</a></p>
+				</div>
+				<div class="col-md-4">
+					<ul class="list-unstyled text-center" style="color:#fff">
+						<li>
+							Redes Sociales.
+						</li>		
+					</ul>
+          <p class="text-center">
+          <a href="https://www.youtube.com/channel/UCjT1qGc-pwOzBPoCG-PPYcw?sub_confirmation=1" target="_blank"><img src="images/youtube-logo.png" width="32" height="32" alt="Youtube" title="Youtube"></a>&nbsp;
+          <a href="https://facebook.com/caesarex8" target="_blank"><img src="images/facebook-logo.png" width="32" height="32" alt="Facebook" title="Facebook"></a>&nbsp;
+          <a href="https://twitter.com/CaesaRex" target="_blank"><img src="images/twitter-logo.png" width="32" height="32" alt="Twitter" title="Twitter"></a>&nbsp;
+          <a href="http://caesarex56.blogspot.mx/" target="_blank"><img src="images/blogger-logo.png" width="32" height="32" alt="Blogger" title="Blogger"></a>&nbsp;
+          <a href="https://www.pinterest.com.mx/caesarex8/" target="_blank"><img src="images/pinterest-logo.png" width="32" height="32" alt="Pinterest" title="Pinterest"></a>&nbsp;
+                  <a href="https://www.instagram.com/caesarex56/" target="_blank"><img src="images/instagram-logo.png" width="32" height="32" alt="Instagram" title="Instagram"></a>&nbsp;
+                </p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--<script type="text/javascript">
+alert('Alumnos de CEMSAD 49 Primer Semestre: Consulten la información para Exámenes Extraordinarios');
+</script>-->
+  </body>
+</html>
