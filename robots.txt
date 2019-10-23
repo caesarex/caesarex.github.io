@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://caesarex.github.io/sitemap.xml
