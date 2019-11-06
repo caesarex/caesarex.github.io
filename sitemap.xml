@@ -6,13 +6,42 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://caesarex.github.io/</loc>
+  <lastmod>2019-10-24T17:27:36+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
   <loc>https://caesarex.github.io/index</loc>
+  <lastmod>2019-10-24T17:27:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://caesarex.github.io/alumnos</loc>
+  <lastmod>2019-10-24T17:27:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://caesarex.github.io/tutoriales</loc>
+  <lastmod>2019-10-24T17:27:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://caesarex.github.io/descargas</loc>
+  <lastmod>2019-10-24T17:27:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://caesarex.github.io/blog</loc>
+  <lastmod>2019-10-24T17:27:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://caesarex.github.io/tienda</loc>
+  <lastmod>2019-10-24T17:27:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://caesarex.github.io/contacto</loc>
   <lastmod>2019-10-24T17:27:36+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 </urlset>
