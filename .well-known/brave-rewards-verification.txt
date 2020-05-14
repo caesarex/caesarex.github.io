@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: caesarex.github.io
+Token: 9c3215d93667c8b1415dcfae16c574b9190712980122f656fd8e3c858459d423
