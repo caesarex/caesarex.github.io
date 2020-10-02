@@ -78,7 +78,7 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://caesarex.github.io/blog/herramientas-virtuales-para-docentes</loc>
+  <loc>https://caesarex.github.io/blog/windows10x</loc>
   <lastmod>2020-08-05T17:31:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
@@ -97,6 +97,10 @@
   <lastmod>2020-08-05T17:31:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
-
+<url>
+  <loc>https://caesarex.github.io/blog/windows10x.html</loc>
+  <lastmod>2020-08-05T17:31:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
 
 </urlset>
