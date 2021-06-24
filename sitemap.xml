@@ -4,102 +4,101 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
 <url>
   <loc>https://caesarex.github.io/</loc>
-  <lastmod>2020-08-05T17:31:17+00:00</lastmod>
+  <lastmod>2021-06-21T01:56:43+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://caesarex.github.io/index</loc>
-  <lastmod>2020-08-05T17:31:17+00:00</lastmod>
+  <lastmod>2021-06-21T01:56:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://caesarex.github.io/alumnos</loc>
-  <lastmod>2020-08-05T17:31:17+00:00</lastmod>
+  <lastmod>2021-06-21T01:56:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://caesarex.github.io/tutoriales</loc>
-  <lastmod>2020-08-05T17:31:17+00:00</lastmod>
+  <lastmod>2021-06-21T01:56:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://caesarex.github.io/descargas</loc>
-  <lastmod>2020-08-05T17:31:17+00:00</lastmod>
+  <lastmod>2021-06-21T01:56:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://caesarex.github.io/blog</loc>
-  <lastmod>2020-08-05T17:31:17+00:00</lastmod>
+  <lastmod>2021-06-21T01:56:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://caesarex.github.io/contacto</loc>
-  <lastmod>2020-08-05T17:31:17+00:00</lastmod>
+  <lastmod>2021-06-21T01:56:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://caesarex.github.io/alumnos.html</loc>
-  <lastmod>2020-08-05T17:31:17+00:00</lastmod>
+  <lastmod>2021-06-21T01:56:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://caesarex.github.io/tutoriales.html</loc>
-  <lastmod>2020-08-05T17:31:17+00:00</lastmod>
+  <lastmod>2021-06-21T01:56:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://caesarex.github.io/descargas.html</loc>
-  <lastmod>2020-08-05T17:31:17+00:00</lastmod>
+  <lastmod>2021-06-21T01:56:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://caesarex.github.io/blog.html</loc>
-  <lastmod>2020-08-05T17:31:17+00:00</lastmod>
+  <lastmod>2021-06-21T01:56:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://caesarex.github.io/contacto.html</loc>
-  <lastmod>2020-08-05T17:31:17+00:00</lastmod>
+  <lastmod>2021-06-21T01:56:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://caesarex.github.io/blog/windows10x</loc>
-  <lastmod>2020-08-05T17:31:17+00:00</lastmod>
+  <loc>https://caesarex.github.io/blog/windows11-requisitos-de-instalacion.html</loc>
+  <lastmod>2021-06-21T01:56:43+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://caesarex.github.io/blog/ya-conoces-lbry.html</loc>
-  <lastmod>2020-08-05T17:31:17+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://caesarex.github.io/blog/herramientas-virtuales-para-docentes.html</loc>
-  <lastmod>2020-08-05T17:31:17+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://caesarex.github.io/blog/gana-dinero-navegando-en-internet.html</loc>
-  <lastmod>2020-08-05T17:31:17+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://caesarex.github.io/blog/windows10x.html</loc>
-  <lastmod>2020-08-05T17:31:17+00:00</lastmod>
+  <loc>https://caesarex.github.io/blog/telegram-importa-chats-de-whatsapp.html</loc>
+  <lastmod>2021-06-21T01:56:43+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://caesarex.github.io/blog/ubuntu-web-remix.html</loc>
-  <lastmod>2020-08-05T17:31:17+00:00</lastmod>
+  <lastmod>2021-06-21T01:56:43+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://caesarex.github.io/blog/telegram-importa-chats-de-whatsapp.html</loc>
-  <lastmod>2020-08-05T17:31:17+00:00</lastmod>
+  <loc>https://caesarex.github.io/blog/windows10x.html</loc>
+  <lastmod>2021-06-21T01:56:43+00:00</lastmod>
   <priority>0.51</priority>
 </url>
+<url>
+  <loc>https://caesarex.github.io/blog/herramientas-virtuales-para-docentes.html</loc>
+  <lastmod>2021-06-21T01:56:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://caesarex.github.io/blog/ya-conoces-lbry.html</loc>
+  <lastmod>2021-06-21T01:56:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://caesarex.github.io/blog/gana-dinero-navegando-en-internet.html</loc>
+  <lastmod>2021-06-21T01:56:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
