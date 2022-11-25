@@ -27,6 +27,11 @@
 		background-color: #aaa;
 		font-weight:bold;
 		}
+	  .vertical {
+        writing-mode: vertical-lr;
+        transform: rotate(180deg);
+        text-align: center;
+        }
         </style>
 </head>
 <body style="background-color: #ddd;">
@@ -1273,20 +1278,24 @@
 	</script></p>
 		   
 	 <h2 style="text-indent:50px;font-size:34px;">Eliminatorias Qatar 2022</h2>
-    <table align="center" border="0" cellspacing="1" cellpadding="5" width="80%" style="empty-cells: hide; border-color: #fff;">
-  
+    <table align="center" border="1" cellspacing="1" cellpadding="5" width="95%" style="empty-cells: hide; border-color: #fff;">
   <tr align="center"  style="font-weight: bold;background-color: #000;color: #fff;">
-    <td colspan="2">Octavos</td>
-    <td colspan="2">Cuartos</td>
-    <td colspan="2">Semifinal</td>
+    <td colspan="3">Octavos</td>
+    <td colspan="3">Cuartos</td>
+    <td colspan="3">Semifinales</td>
     <td colspan="6">Final</td>
-    <td colspan="2">Semifinal</td>
-    <td colspan="2">Cuartos</td>
-    <td colspan="2">Octavos</td>
+    <td colspan="3">Semifinales</td>
+    <td colspan="3">Cuartos</td>
+    <td colspan="3">Octavos</td>
   </tr>
-  <tr>
-    <td><img src="banderas/qatar.png" width="32" height="32"></td>	  
-    <td>1A</td>
+   <tr>
+    <td rowspan="3" class="vertical">03 - Dic || 09:00</td>
+    <td><img src="banderas/qatar.png" width="32" height="32"></td>
+    <td>1°A</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1302,31 +1311,38 @@
     <td></td>
     <td></td>
     <td><img src="banderas/qatar.png" width="32" height="32"></td>
-    <td>1B</td>
+    <td>1°B</td>
+    <td rowspan="3" class="vertical">04 - Dic || 13:00</td>
   </tr>
-  <tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td rowspan="5" class="vertical" class="vertical">09 - Dic || 13:00</td>
+    <td><img src="banderas/qatar.png" width="32" height="32"></td>
+    <td>1°A O 2°B</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
     <td><img src="banderas/qatar.png" width="32" height="32"></td>
-    <td>1A O 2B</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><img src="banderas/qatar.png" width="32" height="32"></td>
-    <td>1B O 2A</td>
+    <td>1°B O 2°A</td>
+    <td rowspan="5" class="vertical">10 - Dic || 13:00</td>
     <td></td>
     <td></td>
   </tr>
-  <tr>
+   <tr>
     <td><img src="banderas/qatar.png" width="32" height="32"></td>
-    <td>2A</td>
+    <td>2°B</td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1342,13 +1358,15 @@
     <td></td>
     <td></td>
     <td><img src="banderas/qatar.png" width="32" height="32"></td>
-    <td>2B</td>
+    <td>2°A</td>
   </tr>
-  <tr>
+   <tr>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
+    <td rowspan="10" class="vertical">13 - Dic || 13:00</td>
     <td><img src="banderas/qatar.png" width="32" height="32"></td>
     <td>Semifinalista 1</td>
     <td></td>
@@ -1359,14 +1377,17 @@
     <td></td>
     <td><img src="banderas/qatar.png" width="32" height="32"></td>
     <td>Semifinalista 3</td>
+    <td rowspan="10" class="vertical">14 - Dic || 13:00</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
-  <tr>
+   <tr>
+    <td rowspan="3" class="vertical">03 - Dic || 13:00</td>
     <td><img src="banderas/qatar.png" width="32" height="32"></td>
-    <td>1C</td>
+    <td>1°C</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1382,13 +1403,14 @@
     <td></td>
     <td></td>
     <td><img src="banderas/qatar.png" width="32" height="32"></td>
-    <td>1D</td>
+    <td>1°D</td>
+    <td rowspan="3" class="vertical">04 - Dic || 09:00</td>
   </tr>
-  <tr>
+   <tr>
     <td></td>
     <td></td>
     <td><img src="banderas/qatar.png" width="32" height="32"></td>
-    <td>1C O 2D</td>
+    <td>1°C O 2°D</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1400,31 +1422,30 @@
     <td></td>
     <td></td>
     <td><img src="banderas/qatar.png" width="32" height="32"></td>
-    <td>1D O 2C</td>
+    <td>2°C O 1°D</td>
     <td></td>
     <td></td>
   </tr>
-  <tr>
+   <tr>
     <td><img src="banderas/qatar.png" width="32" height="32"></td>
-    <td>2D</td>
+    <td>2°D</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan="6" align="center">18 - Dic || 09:00</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td><img src="banderas/qatar.png" width="32" height="32"></td>
-    <td>2C</td>
+    <td>2°C</td>
   </tr>
-  <tr>
+   <tr>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1442,8 +1463,12 @@
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
+    <td></td>
   </tr>
-  <tr>
+   <tr>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1462,50 +1487,15 @@
     <td></td>
     <td></td>
     <td></td>
-  </tr>
-  <tr>
-    <td><img src="banderas/qatar.png" width="32" height="32"></td>
-    <td>1E</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><img src="banderas/qatar.png" width="32" height="32"></td>
-    <td>1F</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td><img src="banderas/qatar.png" width="32" height="32"></td>
-    <td>1E O 2F</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><img src="banderas/qatar.png" width="32" height="32"></td>
-    <td>1F O 2E</td>
-    <td></td>	  
     <td></td>
   </tr>
-  <tr>
+   <tr>
+    <td rowspan="3" class="vertical">05 - Dic || 09:00</td>
     <td><img src="banderas/qatar.png" width="32" height="32"></td>
-    <td>2F</td>
+    <td>1°E</td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1521,9 +1511,47 @@
     <td></td>
     <td></td>
     <td><img src="banderas/qatar.png" width="32" height="32"></td>
-    <td>2E</td>
+    <td>1°F</td>
+    <td rowspan="3" class="vertical">06 - Dic || 09:00</td>
   </tr>
-  <tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td rowspan="5" class="vertical">09 - Dic || 09:00</td>
+    <td><img src="banderas/qatar.png" width="32" height="32"></td>
+    <td>1°E O 2°F</td>
+    <td></td>
+    <td></td>
+    <td colspan="6" align="center">17 - Dic || 09:00</td>
+    <td></td>
+    <td></td>
+    <td><img src="banderas/qatar.png" width="32" height="32"></td>
+    <td>1°F O 2°E</td>
+    <td rowspan="5" class="vertical">10 - Dic || 09:00</td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td><img src="banderas/qatar.png" width="32" height="32"></td>
+    <td>2°F</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="banderas/qatar.png" width="32" height="32"></td>
+    <td>Tercer Lugar</td>
+    <td colspan="2"></td>
+    <td><img src="banderas/qatar.png" width="32" height="32"></td>
+    <td>Tercer Lugar</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="banderas/qatar.png" width="32" height="32"></td>
+    <td>2°E</td>
+  </tr>
+   <tr>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1542,50 +1570,14 @@
     <td></td>
     <td></td>
     <td></td>
-  </tr>
-  <tr>
-    <td><img src="banderas/qatar.png" width="32" height="32"></td>
-    <td>1G</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><img src="banderas/qatar.png" width="32" height="32"></td>
-    <td>1H</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td><img src="banderas/qatar.png" width="32" height="32"></td>
-    <td>1G O 2H</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><img src="banderas/qatar.png" width="32" height="32"></td>
-    <td>1H O 2G</td>
-    <td></td>
     <td></td>
   </tr>
-  <tr>
+   <tr>
+    <td rowspan="3" class="vertical">05 - Dic || 13:00</td>
     <td><img src="banderas/qatar.png" width="32" height="32"></td>
-    <td>2H</td>
+    <td>1°G</td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1601,7 +1593,54 @@
     <td></td>
     <td></td>
     <td><img src="banderas/qatar.png" width="32" height="32"></td>
-    <td>2G</td>
+    <td>1°H</td>
+    <td rowspan="3" class="vertical">06 - Dic || 13:00</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td><img src="banderas/qatar.png" width="32" height="32"></td>
+    <td>1°G o 2°H</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="banderas/qatar.png" width="32" height="32"></td>
+    <td>1°H O 2°G</td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td><img src="banderas/qatar.png" width="32" height="32"></td>
+    <td>2°H</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="banderas/qatar.png" width="32" height="32"></td>
+    <td>2°G</td>
   </tr>
 </table>
 <p align="center"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7171840279422898"
