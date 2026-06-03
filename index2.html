@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Caesarex - Sitio Educativo, Tutoriales, Software y Más</title>
+    <meta name="description" content="Sitio educativo con recursos, tutoriales, software libre y materiales digitales para alumnos y docentes.">
+    
+    <!-- Bootstrap 5 CSS (CDN rápido) -->
+    <link href="https://jsdelivr.net" rel="stylesheet">
+    <!-- Estilos personalizados -->
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+    <!-- Encabezado y Navegación Moderna -->
+    <header class="bg-dark text-white py-3 shadow">
+        <div class="container d-flex justify-content-between align-items-center">
+            <a href="index.html" class="text-white text-decoration-none fs-3 fw-bold">🥇 Caesarex</a>
+        </div>
+    </header>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-secondary sticky-top shadow-sm">
+        <div class="container">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item"><a class="nav-link active" href="#">Inicio</a></li>
+                    <li class="nav-item"><a class="nav-link" href="alumnos.html">Alumnos</a></li>
+                    <li class="nav-item"><a class="nav-link" href="tutoriales.html">Tutoriales</a></li>
+                    <li class="nav-item"><a class="nav-link" href="descargas.html">Descargas</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Carrusel de Imágenes (Bootstrap 5) -->
+    <div id="mainCarousel" class="carousel slide shadow" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="img/carousel-1.jpg" class="d-block w-100" style="height: 400px; object-fit: cover;" alt="Caesarex">
+            </div>
+            <!-- Más elementos .carousel-item aquí -->
+        </div>
+    </div>
+
+    <!-- Contenido Principal -->
+    <main class="container my-5">
+        <div class="row">
+            <section class="col-lg-8">
+                <article class="p-4 bg-light rounded shadow-sm">
+                    <h2>Bienvenid@ a Caesarex</h2>
+                    <p class="lead">Recursos educativos, tutoriales y software libre.</p>
+                </article>
+            </section>
+            <aside class="col-lg-4">
+                <div class="card p-3 shadow-sm">
+                    <h5>📺 Video Recomendado</h5>
+                    <div class="ratio ratio-16x9">
+                        <iframe src="https://youtube.com" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </aside>
+        </div>
+    </main>
+
+    <!-- Bootstrap 5 JS -->
+    <script src="https://jsdelivr.net"></script>
+</body>
+</html>
